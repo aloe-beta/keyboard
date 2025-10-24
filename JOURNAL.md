@@ -11,3 +11,10 @@
 I'm following the split keyboard guide as a first project on here. I spend most of my time reading through documentation to find a microcontroller that would work with the split layout I planned, and re-learning how to use KiCAD (it's been a while). I skipped adding a battery sensor pin, as the microcontroller I selected appears to have that built-in. I added a TRRS jack to share power when charging and to transmit data over a wired connection between the halves.
 ![001.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--51ae934760f4697b910095a0ee9ac438cba4ce64/001.png)  
 
+## 10/23/2025 - Routed PCBs  
+
+I routed both PCBs, connected to each other through mousebites. I ended up adding more mounting holes and changing the battery test pads into a single double testpad on the schematic, to add a JST connector for the battery on each PCB (footprint-symbol linking).
+![002.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--e13ad86b4479cc75df46f9091d5bcf44bd70c4ab/002.png)
+![004.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--dd3e4e869e02995985db190e91e2e2aa89928a00/004.png)
+![003.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkyNywicHVyIjoiYmxvYl9pZCJ9fQ==--41582f8a6437978a7bea561acf3b0ff920a178e6/003.png)  
+
