@@ -18,3 +18,11 @@ I routed both PCBs, connected to each other through mousebites. I ended up addin
 ![004.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--dd3e4e869e02995985db190e91e2e2aa89928a00/004.png)
 ![003.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkyNywicHVyIjoiYmxvYl9pZCJ9fQ==--41582f8a6437978a7bea561acf3b0ff920a178e6/003.png)  
 
+## 10/24/2025 - Rerouted PCB  
+
+Apparently I put all the switch brackets on the wrong side of the board. I deleted all the traces, moved the brackets to the back, and rerouted everything. I figured this time I might as well make the traces follow a more consistent layout, so I cleaned things up a bit with those as well.
+
+![007](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--69445d9ac0afdc97f03638f8316bfb3675dc4766/007.png)
+![005](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--b6b4e08ba6bf90e99ec0470a225abf416212863c/005.png)
+![006](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMyNywicHVyIjoiYmxvYl9pZCJ9fQ==--f60ddb545b02cb1bd24223ae83f67f8f268d09f0/006.png)  
+
