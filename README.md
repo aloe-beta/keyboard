@@ -9,17 +9,21 @@ The directory structure should be self-explanatory. Currently, `firmare/` only c
 The BOM does not contain anything for the housing or keycaps, as I intend to resin-print those myself.
 
 **Schematic:**
+
 ![Schematic](src/schematic.png)
 
 **PCB:**
+
 ![Front](src/pcb-front.png)
 ![Back](src/pcb-back.png)
 
 **Housing:**
+
 ![Housing](src/housing_full.png)
 ![Housing (left side)](src/housing_left_back.png)
 ![Housing with keycaps](src/housing-keycaps.png)
 
 **Keycaps:**
+
 ![Keycap (top angle)](src/keycap-a.png)
 ![Keycap (bottom angle)](src/keycap-b.png)
