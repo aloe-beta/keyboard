@@ -10,7 +10,7 @@ MSE1PG-M3,Diodes for use in the wired interconnect,D113-D114,https://www.digikey
 Seeed Studio XIAO ESP32-S3,MCU,U3-U4,https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991114/19285530,2,2,7.4900,14.98,DigiKey
 GATERON Upgrade Hot-swap PCB 2.0 Socket,Hotswappable switch bracket,SW1-SW56,https://www.gateron.com/products/gateron-hot-swap-pcb-socket?VariantsId=10170,56,1x70,7.0000,7.00,Gateron
 GATERON KS-33 Low Profile 2.0 Mechanical Switch,Low-profile mechanical switch,N/A,https://www.gateron.com/products/gateron-ks-33-low-profile-switch-set?VariantsId=11464,56,2x35,9.8000,19.60,Gateron
-PCB,The circuit board for the keyboard.,N/A,N/A,1,1x5,21.8600,21.86,JLC
+PCB,The circuit board for the keyboard.,N/A,N/A,1,1x5,11.0000,11.00,JLC
 Stencil,The stencil for soldering the board.,N/A,N/A,1,1,7.0000,7.00,JLC
 1N4148W,Diodes to prevent key ghosting,D1-D56,https://www.lcsc.com/product-detail/C51953478.html,56,56,0.0430,2.41,LCSC
 SK6812MINI-E,Addressable RGB LEDs for the backlight,D57-D112,https://www.lcsc.com/product-detail/C5149201.html,56,60,0.0683,4.10,LCSC
@@ -19,8 +19,8 @@ SK12D07VG5,Power switches,SW57-SW58,https://www.lcsc.com/product-detail/C3020419
 ,,,,,,Shipping,4.99,DigiKey
 ,,,,,,Service Charge,1.55,Gateron
 ,,,,,,Shipping,8.60,Gateron
-,,,,,,Shipping,37.69,JLC
+,,,,,,Shipping,29.22,JLC
 ,,,,,,Handling Fee,3.00,LCSC
 ,,,,,,Shipping,8.42,LCSC
-,,,,,,Sales Tax,8.52,
-,,,,,,Total,163.44,
+,,,,,,Sales Tax,7.84,
+,,,,,,Total,150.43,
